@@ -3,7 +3,7 @@
 
 <form action="" method="post">
 
-Arquivo se encontra em ./file/file.txt<br>
+Arquivo se encontra em htdocs/file/file.txt<br>
 
 <input type="submit" name="submit">
 </form>
